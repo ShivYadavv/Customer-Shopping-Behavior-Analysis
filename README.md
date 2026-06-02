@@ -119,25 +119,6 @@ Focus marketing efforts on high-revenue age groups and loyal customers.
 
 ---
 
-## Project Structure
-
-```
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-├── notebooks/
-├── sql_queries/
-├── powerbi_dashboard/
-├── images/
-├── README.md
-│
-├── customer_shopping_behavior.csv
-├── customer_behavior_analysis.ipynb
-├── customer_behavior_dashboard.pbix
-└── sql_analysis.sql
-```
-
----
 
 ## Skills Demonstrated
 
